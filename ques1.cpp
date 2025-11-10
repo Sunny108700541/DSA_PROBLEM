@@ -1,7 +1,7 @@
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
-
+//Count of subarrays with XOR K
 class Solution{
 public:
     int subarraysWithXorK(vector<int> &nums, int k) {

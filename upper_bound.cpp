@@ -1,5 +1,7 @@
 class Solution{
 public:
+        // upper bound of a number in a sorted array
+        // also use to find element insert it position
     int upperBound(vector<int> &nums, int x){
 
      int left=0;
